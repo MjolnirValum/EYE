@@ -1,0 +1,20 @@
+﻿  demo.cpp
+C:\Glew and Glut\demo.cpp(42,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Glew and Glut\demo.cpp(43,19): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Glew and Glut\demo.cpp(89,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Glew and Glut\demo.cpp(89,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Glew and Glut\demo.cpp(90,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Glew and Glut\demo.cpp(90,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Glew and Glut\demo.cpp(91,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Glew and Glut\demo.cpp(91,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Glew and Glut\demo.cpp(92,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Glew and Glut\demo.cpp(92,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Glew and Glut\demo.cpp(218,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Glew and Glut\demo.cpp(219,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Glew and Glut\demo.cpp(222,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Glew and Glut\demo.cpp(223,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Glew and Glut\demo.cpp(243,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Glew and Glut\demo.cpp(244,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Glew and Glut\demo.cpp(251,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Glew and Glut\demo.cpp(252,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  demoDesert.vcxproj -> C:\Users\clayt\source\repos\demoDesert\Debug\demoDesert.exe

@@ -1,0 +1,12 @@
+﻿  Lab 2.1 - Projection Matrix.cpp
+C:\Users\clayt\source\repos\Lab 2.1 - Projection Matrix\Lab 2.1 - Projection Matrix\Lab 2.1 - Projection Matrix.cpp(21,12): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\clayt\source\repos\Lab 2.1 - Projection Matrix\Lab 2.1 - Projection Matrix\Lab 2.1 - Projection Matrix.cpp(24,12): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\clayt\source\repos\Lab 2.1 - Projection Matrix\Lab 2.1 - Projection Matrix\Lab 2.1 - Projection Matrix.cpp(52,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\clayt\source\repos\Lab 2.1 - Projection Matrix\Lab 2.1 - Projection Matrix\Lab 2.1 - Projection Matrix.cpp(59,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\clayt\source\repos\Lab 2.1 - Projection Matrix\Lab 2.1 - Projection Matrix\Lab 2.1 - Projection Matrix.cpp(66,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\clayt\source\repos\Lab 2.1 - Projection Matrix\Lab 2.1 - Projection Matrix\Lab 2.1 - Projection Matrix.cpp(73,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\clayt\source\repos\Lab 2.1 - Projection Matrix\Lab 2.1 - Projection Matrix\Lab 2.1 - Projection Matrix.cpp(344,12): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\clayt\source\repos\Lab 2.1 - Projection Matrix\Lab 2.1 - Projection Matrix\Lab 2.1 - Projection Matrix.cpp(347,12): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\clayt\source\repos\Lab 2.1 - Projection Matrix\Lab 2.1 - Projection Matrix\Lab 2.1 - Projection Matrix.cpp(355,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\clayt\source\repos\Lab 2.1 - Projection Matrix\Lab 2.1 - Projection Matrix\Lab 2.1 - Projection Matrix.cpp(356,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Lab 2.1 - Projection Matrix.vcxproj -> C:\Users\clayt\source\repos\Lab 2.1 - Projection Matrix\Debug\Lab 2.1 - Projection Matrix.exe
